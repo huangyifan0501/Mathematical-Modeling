@@ -1,5 +1,5 @@
 # Mathematical-Modeling
-Files and papers for 2020 CUMCM
+Files and papers for Mathematical Modeling
 
 Group members: Yifan Huang, Chenhao Li, Hao Wen
 
